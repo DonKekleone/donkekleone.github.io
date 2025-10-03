@@ -1,19 +1,10 @@
-[METADATA]
-issuer = "r9NcytRxC1CX1vERGn9HGR2Bwbuo6tGX1h"
-created = "2025-10-03"
-updated = "2025-10-03"
+[[ACCOUNTS]]
+address = "r9NcytRxC1CX1vERGn9HGR2Bwbuo6tGX1h"
+desc = "Issuer account for Trustless Payments"
 
 [[CURRENCIES]]
 code = "TRLS"
 issuer = "r9NcytRxC1CX1vERGn9HGR2Bwbuo6tGX1h"
-display_decimals = 6
-symbol = "🐸"
-description = "Trustless Payments — Honor through automation. TRLS removes trust from the equation and enforces fairness through code."
-conditions = "Fixed supply. Escrow bot fee reductions for NFT holders. Buy & burn mechanics."
-url = "https://donkekleone.github.io"
-icon = "https://donkekleone.github.io/ trls.png"
-
-[ACCOUNTS]
-address = "r9NcytRxC1CX1vERGn9HGR2Bwbuo6tGX1h"
-role = "issuer"
-desc = "Primary issuer account for Trustless (TRLS)."
+name = "Trustless Token"
+desc = "TRLS powers the Trustless escrow system — Honor Through Automation."
+icon = "https://donkekleone.github.io/trls.png"
